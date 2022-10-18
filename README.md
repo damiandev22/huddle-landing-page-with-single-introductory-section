@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/damiandev22/huddle-landing-page-with-single-introductory-section
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://damiandev22.github.io/huddle-landing-page-with-single-introductory-section/
 
 ## My process
 
@@ -41,11 +41,13 @@ Users should be able to:
 
 - The use of vw, vh and % to adjust size of elements.
 - How to add animations.
+- How to use .svg in html files.
 
 ### Continued development
 
 - Continue using vw, vh and % to adjust size of elements.
 - Continue using animations in order to improve the style of the web.
+- Copy .svg code in html files.
 
 ### Useful resources
 
